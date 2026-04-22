@@ -8,26 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\johan\\.nuget\\packages\\": {}
+    "C:\\Users\\juanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\Desktop\\PRUEBA v\\PROYECTO FINAL UNIIDA 1}\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Desktop\\proyecto\\proyectoFINAL_UNIDAD1\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
       "projectName": "PROYECTO_FINAL_C#",
-      "projectPath": "C:\\Users\\johan\\Desktop\\PRUEBA v\\PROYECTO FINAL UNIIDA 1}\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
-      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johan\\Desktop\\PRUEBA v\\PROYECTO FINAL UNIIDA 1}\\PROYECTO_FINAL_C#\\obj\\",
+      "projectPath": "C:\\Users\\juanp\\OneDrive\\Desktop\\proyecto\\proyectoFINAL_UNIDAD1\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
+      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanp\\OneDrive\\Desktop\\proyecto\\proyectoFINAL_UNIDAD1\\PROYECTO_FINAL_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

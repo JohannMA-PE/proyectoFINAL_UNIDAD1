@@ -144,6 +144,7 @@ namespace DonMaxiCarrito
             Console.WriteLine("¡Gracias por su compra!");
             Console.WriteLine("============================");
             Console.WriteLine("Prueba 1 de suma");
+            Console.WriteLine("hola mongol");
         }
     }
 }
