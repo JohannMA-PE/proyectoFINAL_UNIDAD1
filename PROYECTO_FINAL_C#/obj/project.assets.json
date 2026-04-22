@@ -8,26 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\johan\\.nuget\\packages\\": {}
+    "C:\\Users\\Giane\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\Desktop\\PRUEBA v\\PROYECTO FINAL UNIIDA 1}\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
+      "projectUniqueName": "C:\\Users\\Giane\\gaaaa\\proyectoFINAL_UNIDAD1\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
       "projectName": "PROYECTO_FINAL_C#",
-      "projectPath": "C:\\Users\\johan\\Desktop\\PRUEBA v\\PROYECTO FINAL UNIIDA 1}\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
-      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johan\\Desktop\\PRUEBA v\\PROYECTO FINAL UNIIDA 1}\\PROYECTO_FINAL_C#\\obj\\",
+      "projectPath": "C:\\Users\\Giane\\gaaaa\\proyectoFINAL_UNIDAD1\\PROYECTO_FINAL_C#\\PROYECTO_FINAL_C#.csproj",
+      "packagesPath": "C:\\Users\\Giane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Giane\\gaaaa\\proyectoFINAL_UNIDAD1\\PROYECTO_FINAL_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Giane\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
