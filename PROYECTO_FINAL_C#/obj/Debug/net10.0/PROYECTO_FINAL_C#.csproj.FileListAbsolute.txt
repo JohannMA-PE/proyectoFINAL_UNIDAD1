@@ -1,0 +1,14 @@
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\bin\Debug\net10.0\PROYECTO_FINAL_C#.exe
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\bin\Debug\net10.0\PROYECTO_FINAL_C#.deps.json
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\bin\Debug\net10.0\PROYECTO_FINAL_C#.runtimeconfig.json
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\bin\Debug\net10.0\PROYECTO_FINAL_C#.dll
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\bin\Debug\net10.0\PROYECTO_FINAL_C#.pdb
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.AssemblyInfo.cs
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.dll
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\refint\PROYECTO_FINAL_C#.dll
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.pdb
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\PROYECTO_FINAL_C#.genruntimeconfig.cache
+C:\Users\johan\Desktop\PRUEBA v\PROYECTO FINAL UNIIDA 1}\PROYECTO_FINAL_C#\obj\Debug\net10.0\ref\PROYECTO_FINAL_C#.dll
